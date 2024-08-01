@@ -105,7 +105,7 @@ files, and a concluded license_expression ``apache-2.0`` instead of the
 ``unknown-license-reference``.
 
 
-Chnagelog Summary
+Changelog Summary
 -----------------
 
 - There is a new ``license_detections`` codebase level attribute with all the
